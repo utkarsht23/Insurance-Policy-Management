@@ -1,0 +1,11 @@
+.sidebar {
+    width: 250px;
+    height: 500px;
+    position: relative;
+    margin-left: 20px;
+  }
+  
+  .sidebar.sticky {
+    position: fixed;
+    top: 0;
+  }
